@@ -438,8 +438,8 @@ pre {
 .post .post-media {
   position: relative;
   margin-right: 15px;
-  width: 220px;
-  height: 160px;
+  width: 115px;
+  height: 161px;
   float: left;
   overflow: hidden;
 }
@@ -468,8 +468,8 @@ pre {
   max-width: 100%;
 }
 .post .post-footer {
-  margin-top: 15px;
-  padding-top: 15px;
+  margin-top: 25px;
+  padding-top: 25px;
   border-top: 1px solid #ebebeb;
 }
 .post .post-footer .tag-list {
