@@ -314,9 +314,10 @@ pre {
 }
 .main-navigation .menu li a {
   color: #505050;
-  line-height: 4em;
+  line-height: 3em;
   display: block;
   padding: 0 21px;
+  font-size: 1.1em;
 }
 .main-navigation .menu li:hover > a {
   color: #e67e22;
