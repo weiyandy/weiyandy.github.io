@@ -1317,7 +1317,7 @@ pre .javascript .function {
 }
 
 #zdownload span {
-    background: url(//www.btdx8.com/wp-content/themes/bttt8_2014/images/download_ico.png) no-repeat scroll 10px 12px #ff7d00;
+    background: url(/img/download_ico.png) no-repeat scroll 10px 12px #ff7d00;
     border-radius: 8px 0 0 8px;
     color: #fff;
     display: inline-block;
