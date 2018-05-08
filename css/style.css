@@ -301,6 +301,10 @@ pre {
   font-size: 24px;
 }
 
+.nav-toggle-button{
+  float: right;
+}
+
 .main-navigation {
   background: #fff;
   border-top: 1px solid #ebebeb;
